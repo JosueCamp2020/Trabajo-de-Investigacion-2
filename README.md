@@ -15,6 +15,8 @@
 
 2. MARCO TEORICO
 
+![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Imagenes/Numeros%20Complejos.jpeg)
+
 3. DIAGRAMAS/EJERCICIOS
 
 4. EXPLICACIÓN
