@@ -25,6 +25,7 @@
 * Para el analisis de los circuitos RC en serie la ley de Ohm y la ley del voltaje de Kirchhoff se utilizan en el análisis de circuitos RC dispuestos en serie para determinar voltaje, corrientes e impedancia.
 * En los circuitos en Paralelo se debera analizar primero lo que es la impedancia y el ángulo de fase de un circuito RC dispuesto en paralelo.
 * Los conceptos estudiados con respecto a circuitos dispuestos en serie - paralelo se utilizan para analizar circuitos que tienen combinaciones de componentes R (Resitor) y C (Capacitor) tanto en serie como en paralelo.
+* En un circuito de ca puramente capacitivo, el capacitor guarda toda energía suministrada por la fuente durante una parte del ciclo de voltaje y luego la regresa a la fuente durante otra parte del ciclo, de modo que no hay conversión de energía en calor.
 
 6. BIBLIOGRAFIA
 
