@@ -21,6 +21,11 @@
 
 5. CONCLUSIONES
 
+* Cuando se aplica un voltaje sinusoidal a un circuito RC dispuesto en serie, las caídas de volta- je y de corriente resultantes en el circuito son también sinusoidales y tienen la misma frecuencia que el voltaje aplicado.
+* Para el analisis de los circuitos RC en serie la ley de Ohm y la ley del voltaje de Kirchhoff se utilizan en el análisis de circuitos RC dispuestos en serie para determinar voltaje, corrientes e impedancia.
+* En los circuitos en Paralelo se debera analizar primero lo que es la impedancia y el ángulo de fase de un circuito RC dispuesto en paralelo.
+* Los conceptos estudiados con respecto a circuitos dispuestos en serie - paralelo se utilizan para analizar circuitos que tienen combinaciones de componentes R (Resitor) y C (Capacitor) tanto en serie como en paralelo.
+
 6. BIBLIOGRAFIA
 
 * Floyd, T. L. ( 2007). Principios de circuitos eléctricos (Vol. Octava edición). México: Pearson Educación.
