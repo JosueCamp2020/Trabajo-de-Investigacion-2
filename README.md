@@ -45,6 +45,6 @@ LINK ARTICULO: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/
 
 LINK EJERCICIOS:
 
-LINK VIDEO:
+LINK VIDEO: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Video/VideoLink
 
 LINK APORTACIONES: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/tree/main/Aportaciones
