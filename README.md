@@ -17,6 +17,7 @@
 
 ![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Imagenes/Numeros%20Complejos.jpeg)
 ![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Imagenes/Circuitos%20Paralelo-Serie-Mixto.jpeg)
+![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Imagenes/Potencia%20en%20circuitos%20rc.jpg)
 
 3. DIAGRAMAS/EJERCICIOS
 
