@@ -41,7 +41,7 @@
 
 7. ANEXOS
 
-LINK ARTICULO:
+LINK ARTICULO: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Articulo/Articulo%20RC.pdf
 
 LINK EJERCICIOS:
 
