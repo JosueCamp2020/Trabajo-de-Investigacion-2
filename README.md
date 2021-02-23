@@ -34,6 +34,10 @@
 6. BIBLIOGRAFIA
 
 * Floyd, T. L. ( 2007). Principios de circuitos eléctricos (Vol. Octava edición). México: Pearson Educación.
+* Wikiversidad. (30 de may de 2020). wikiversity.org. Obtenido de https://es.wikiversity.org/wiki/Circuito_RC
+* Ekuatio. (14 de 03 de 2019). Clases de Matemáticas Online. Obtenido de https://ekuatio.com/circuito-en-serie-rc-en-corriente-alterna-analisis-y-diagrama-vectorial/#Que_es_un_circuito_en_serie_RC
+* SALAZAR LARGO, D. G. (25 de 06 de 2018). UNIVERSIDAD DE CUENCA. Obtenido de http://dspace.ucuenca.edu.ec/bitstream/123456789/2165/1/tmf142.pdf
+* Avecillas Jara , A. S. (s.f.). ELECTROMAGNETISMO. Cuenca-Ecuador.: Colección de obras científico – didácticas.
 
 7. ANEXOS
 
