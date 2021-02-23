@@ -21,7 +21,7 @@
 
 3. DIAGRAMAS/EJERCICIOS/EXPLICACIÓN
 
-LINK EJERCICIOS:
+LINK EJERCICIOS: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Anexos/Trabajo%20de%20Investigacion%20Resolucion%20de%20Ejercicios.pdf
 
 4. CONCLUSIONES
 
