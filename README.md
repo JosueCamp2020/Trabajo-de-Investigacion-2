@@ -16,6 +16,7 @@
 2. MARCO TEORICO
 
 ![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Imagenes/Numeros%20Complejos.jpeg)
+![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Imagenes/Circuitos%20Paralelo-Serie-Mixto.jpeg)
 
 3. DIAGRAMAS/EJERCICIOS
 
