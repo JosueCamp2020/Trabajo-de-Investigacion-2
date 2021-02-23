@@ -43,4 +43,4 @@ LINK EJERCICIOS:
 
 LINK VIDEO:
 
-LINK APORTACIONES:
+LINK APORTACIONES: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/tree/main/Aportaciones
