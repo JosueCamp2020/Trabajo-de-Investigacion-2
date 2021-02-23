@@ -19,19 +19,19 @@
 ![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Imagenes/Circuitos%20Paralelo-Serie-Mixto.jpeg)
 ![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Imagenes/Potencia%20en%20circuitos%20rc.jpg)
 
-3. DIAGRAMAS/EJERCICIOS
+3. DIAGRAMAS/EJERCICIOS/EXPLICACIÓN
 
-4. EXPLICACIÓN
+LINK EJERCICIOS:
 
-5. CONCLUSIONES
+4. CONCLUSIONES
 
-* Cuando se aplica un voltaje sinusoidal a un circuito RC dispuesto en serie, las caídas de volta- je y de corriente resultantes en el circuito son también sinusoidales y tienen la misma frecuencia que el voltaje aplicado.
+* Cuando se aplica un voltaje sinusoidal a un circuito RC dispuesto en serie, las caídas de voltaje y de corriente resultantes en el circuito son también sinusoidales y tienen la misma frecuencia que el voltaje aplicado.
 * Para el analisis de los circuitos RC en serie la ley de Ohm y la ley del voltaje de Kirchhoff se utilizan en el análisis de circuitos RC dispuestos en serie para determinar voltaje, corrientes e impedancia.
 * En los circuitos en Paralelo se debera analizar primero lo que es la impedancia y el ángulo de fase de un circuito RC dispuesto en paralelo.
 * Los conceptos estudiados con respecto a circuitos dispuestos en serie - paralelo se utilizan para analizar circuitos que tienen combinaciones de componentes R (Resitor) y C (Capacitor) tanto en serie como en paralelo.
 * En un circuito de ca puramente capacitivo, el capacitor guarda toda energía suministrada por la fuente durante una parte del ciclo de voltaje y luego la regresa a la fuente durante otra parte del ciclo, de modo que no hay conversión de energía en calor.
 
-6. BIBLIOGRAFIA
+5. BIBLIOGRAFIA
 
 * Floyd, T. L. ( 2007). Principios de circuitos eléctricos (Vol. Octava edición). México: Pearson Educación.
 * Wikiversidad. (30 de may de 2020). wikiversity.org. Obtenido de https://es.wikiversity.org/wiki/Circuito_RC
@@ -39,11 +39,9 @@
 * SALAZAR LARGO, D. G. (25 de 06 de 2018). UNIVERSIDAD DE CUENCA. Obtenido de http://dspace.ucuenca.edu.ec/bitstream/123456789/2165/1/tmf142.pdf
 * Avecillas Jara , A. S. (s.f.). ELECTROMAGNETISMO. Cuenca-Ecuador.: Colección de obras científico – didácticas.
 
-7. ANEXOS
+6. ANEXOS
 
 LINK ARTICULO: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Articulo/Articulo%20RC.pdf
-
-LINK EJERCICIOS:
 
 LINK VIDEO: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-2/blob/main/Video/VideoLink
 
